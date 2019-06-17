@@ -1,0 +1,1 @@
+Modifikovati exportCertificate da pravi file u CRL formatu i cuva sa .crl ekstenzijom
